@@ -19,7 +19,7 @@
 
 ## Links
 
-- Site: <https://denisecase.github.io/44-563-webapps-syllabus>
+- Site: <https://lunduks.github.io/44-563-webapps-syllabus/>
 - Source: <https://github.com/denisecase/44-563-webapps-syllabus>
 
 ## Prerequisites
